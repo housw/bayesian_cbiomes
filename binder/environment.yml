@@ -8,7 +8,6 @@ dependencies:
   - bwidget=1.9.11
   - bzip2=1.0.8
   - ca-certificates=2019.11.28
-  - cairo=1.14.12
   - certifi=2019.11.28
   - cftime=1.0.4.2
   - curl=7.67.0
@@ -22,7 +21,6 @@ dependencies:
   - harfbuzz=1.8.8
   - hdf4=4.2.13
   - hdf5=1.10.5
-  - icu=58.2
   - jpeg=9c
   - krb5=1.16.4
   - libblas=3.8.0
@@ -39,7 +37,6 @@ dependencies:
   - libssh2=1.8.2
   - libtiff=4.1.0
   - libuv=1.26.0
-  - libxml2=2.9.9
   - make=4.2.1
   - ncurses=6.1
   - netcdf4=1.5.3
